@@ -51,7 +51,7 @@ namespace BAI
         [TestCase(1, 100, 4)]  // 4 getallen, keuze uit 100
         [TestCase(-10, 20, 30)] // negatieve lower
         [TestCase(-50, -20, 10)] // negatieve upper en lower
-        
+        [TestCase(100_000, 500_000, 400_001)]  // Veel getallen, keuze uit evenveel
         public void Opg3_03_BoundsOk(int lower, int upper, int count)
         {
             // Arrange

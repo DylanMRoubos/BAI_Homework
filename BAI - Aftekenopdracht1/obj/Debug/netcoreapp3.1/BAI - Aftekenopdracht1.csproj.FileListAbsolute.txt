@@ -3,10 +3,10 @@
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/bin/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.runtimeconfig.dev.json
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/bin/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.dll
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/bin/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.pdb
-/Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.csprojAssemblyReference.cache
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.AssemblyInfoInputs.cache
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.AssemblyInfo.cs
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.csproj.CoreCompileInputs.cache
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.dll
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.pdb
 /Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.genruntimeconfig.cache
+/Users/dylanroubos/Projects/BAI - Aftekenopdracht 1/BAI - Aftekenopdracht1/obj/Debug/netcoreapp3.1/BAI - Aftekenopdracht1.csprojAssemblyReference.cache

@@ -123,7 +123,7 @@ namespace BAI
 
             while (n < count)
             {
-                var randomNumber = rnd.Next(lower, upper);
+                var randomNumber = rnd.Next(lower, upper + 1);
 
                 if (!dictionary.ContainsKey(randomNumber))
                 {
