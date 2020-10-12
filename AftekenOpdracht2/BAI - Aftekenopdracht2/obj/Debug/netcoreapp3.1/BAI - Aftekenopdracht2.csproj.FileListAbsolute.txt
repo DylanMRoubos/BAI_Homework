@@ -1,0 +1,13 @@
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.exe
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.deps.json
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.runtimeconfig.json
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.runtimeconfig.dev.json
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.dll
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\bin\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.pdb
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.csprojAssemblyReference.cache
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.AssemblyInfoInputs.cache
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.AssemblyInfo.cs
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.csproj.CoreCompileInputs.cache
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.dll
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.pdb
+H:\Windesheim\BAI\AftekenOpdracht2\BAI - Aftekenopdracht2\obj\Debug\netcoreapp3.1\BAI - Aftekenopdracht2.genruntimeconfig.cache
